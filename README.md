@@ -1,0 +1,1 @@
+This is Kojak's first git project!
